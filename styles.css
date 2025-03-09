@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.circle{
+	border:1px solid black;
+	display:inline;
+	border-radius:50%;
+	font-size:40px;
+	width:40px;
+	border:border-radius;
+	
+}
+button{
+	display:block;
+}
